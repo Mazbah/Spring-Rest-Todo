@@ -14,7 +14,7 @@
 	<name>rest</name>
 	<description>Demo project for Spring Boot REST</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>9</java.version>
 		<kotlin.version>1.4.32</kotlin.version>
 	</properties>
 	<dependencies>
